@@ -4,3 +4,5 @@
   - Camera-based infinite scrolling
   - Dynamic object spawning and game state management
   - Sound integration for enhanced user experience
+- Here's a video demonstrating how the game is played: https://www.youtube.com/watch?v=QtufUFjOIFs
+  
